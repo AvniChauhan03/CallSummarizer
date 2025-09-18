@@ -1,0 +1,13 @@
+Transcript,Summary,Sentiment
+Transcript: hey! yesterday I was booking an appointment and I couldn't as the payment failed everytime.
+"Summary: The customer was trying to book an appointment yesterday, but the payment failed repeatedly. This issue prevented them from completing the booking process. They are now reporting this issue for assistance."
+Sentiment: negative
+
+Transcript: today I got my bills. can you explain it to me?
+"Summary: The customer received their bills and is seeking clarification on the contents. They are reaching out for an explanation, indicating some level of confusion or uncertainty. The customer's inquiry is straightforward and to the point."
+Sentiment: neutral
+
+Transcript: I was facing some issue with billing but the staff helped me resolve my issue.
+"Summary: The customer had a billing issue, but the staff assisted in resolving the problem. The customer's issue was addressed with the help of the staff. The issue is now resolved."
+Sentiment: positive
+
